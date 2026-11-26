@@ -1,0 +1,10 @@
+config/config.ini
+*.db
+*.sqlite
+data/archive/*
+data/rejected/*
+!data/archive/.gitkeep
+!data/rejected/.gitkeep
+__pycache__/
+venv/
+.venv/
