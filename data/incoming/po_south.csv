@@ -1,4 +1,0 @@
-po_number,region,supplier_id,material_code,ordered_qty,unit_price_usd,order_date
-PO-S-2001,South,SUP-3105,MAT-EXC-04,1000,12.00,2026-11-20
-PO-S-2002,South,SUP-4402,MAT-BIO-12,50,620.00,2026-11-21
-PO-S-2003,South,SUP-8821,MAT-ALB-01,150,120.50,2026-11-22
